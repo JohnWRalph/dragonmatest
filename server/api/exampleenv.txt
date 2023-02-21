@@ -1,0 +1,13 @@
+// This is a blank env configuration. After setting up your firebase storage, 
+replace the example values on the right of the "=" with the given values from firebase 
+as plain text without any "" like below. 
+Then rename the file to ".env" and delete this text. Reminder to also change the client side
+axios links to point to the deployed server 
+
+FIREBASECONFIG_APIKEY = abcderfldl1122331
+FIREBASECONFIG_AUTHDOMAIN = appname.firebaseapp.com
+FIREBASECONFIG_PROJECTID = app
+FIREBASECONFIG_STORAGEBUCKET = appName.appspot.com
+FIREBASECONFIG_MESSAGINGSENDERID = 12345678
+FIREBASECONFIG_APPID = 1:123456789:web:1234567
+FIREBASECONFIG_MEASUREMENTID = A-BCDEFGR
